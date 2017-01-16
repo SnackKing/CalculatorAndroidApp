@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="booleanModes_array">
+        <item>Boolean</item>
+        <item>Numerical</item>
+        <item>Derivative</item>
+    </string-array>
+</resources>
